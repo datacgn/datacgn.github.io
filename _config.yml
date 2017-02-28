@@ -1,22 +1,22 @@
-url: https://blechman.github.io
+url: https://datacgn.github.io
 baseurl: 
 
 # Site settings
-title: Victoria Blechman
-email: victoria.blechman@gmail.com
+title: datacgn
+email: pomogajko@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503  
+  primary:  3385ff
+  secondary: 668cff  
   secondary-dark: 333
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Univ.-Prof. Dr. Jens Harbecke
+  pic: jens
+  position: Professor for Theoretical Philosophy 
   social:
     - title: twitter
       url: #
@@ -25,34 +25,23 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Kirill Pomogajko
+  pic: kirill
+  position: Full Stack Data Scientist
   social:
     - title: twitter
-      url: #
+      url: https://twitter.de/pomogajko
     - title: facebook
       url: #
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/victoria_cgn
+    url: http://twitter.com/pomogajko
   - title: linkedin
-    url: https://www.linkedin.com/in/victoria-blechman
+    url: https://www.linkedin.com/in/k
 
 # Postal address (add as many lines as necessary)
 address:
